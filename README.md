@@ -1,4 +1,4 @@
-# WHo-Relapse-Time-in-GBM-Pairs
+# Relapse-Time-in-GBM-Pairs
 Acta Neuropathol Commun. 2024 May 18;12(1):77. doi: 10.1186/s40478-024-01790-3.
 
 A longer time to relapse is associated with a larger increase in differences between paired primary and recurrent IDH wild-type glioblastomas at both the transcriptomic and genomic levels
